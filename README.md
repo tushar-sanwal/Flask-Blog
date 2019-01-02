@@ -27,7 +27,7 @@ This is too simple as i am a beginner in flask.
 
 --> Then go to your Scripts folder and install flask in that folder. (cd Scripts --> pip install flask )
 
---> Then install flask-wtf for forms in the same Scripts folder. ( pip install flask-wtf )
+--> Then install flask-wtf for forms in the same Scripts folder. ( pip install flask-wtf ) * if it not import wtf go to app folder and install in that folder *
 
 --> Make a folder in the venv folder ( mkdir app )  * app is the folder name in venv folder *
 
