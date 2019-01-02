@@ -7,9 +7,9 @@ This is too simple as i am a beginner in flask.
 # Important!
 /*----------------------------Requirement------------------------*/
 
---> python 3.6 
+--> python 3.6 or after 3.6 version
 
---> flask 1.0 or 
+--> flask 1.0 or after 1.0 version
 
 -->Virtual Enviornment  * OPTIONAL *  [ you can create virtual enviornment as your real files are not affected if any changes will made ]
 
